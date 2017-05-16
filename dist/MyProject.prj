@@ -1,0 +1,95 @@
+%%Excelsior JET v11.0 project file
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace-
+-global-
+-gui+
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-jetcpenablemanualsettings+
+-multiapp-
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-inlinelimit=100
+-inlinetolimit=1000
+-jetcplastpage:=PageCompile
+-jetrt=Desktop
+-jetvmprop=-Djet.gc.heaplimit:0 -Djet.stack.trace
+-main=AppPackage/LoginClass
+-outputdir=.
+-outputname=MyProject
+-saprofmode=JETCPONLY
+-saproftimeout=20
+-stacklimit=900000
+-startupprofile=./MyProject.startup
+
+
+
+
+!classpathentry ./AutoApp.jar
+  -pack=noncompiled
+  -protect=all
+  -optimize=all
+!end
+!classpathentry ./lib/AbsoluteLayout.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./lib/jcommon.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./lib/jfreechart-1.0.19.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./lib/gnujaxp-1.0.0.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./lib/jfreechart-1.0.19-demo.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./lib/jcommon-1.0.23.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./lib/AnimatonClass.jar
+  -pack=noncompiled
+  -protect=all
+  -optimize=all
+!end
+!classpathentry ./lib/jSerialComm-1.3.11.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./lib/sqlite-jdbc-3.14.2.1.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./lib/mysql-connector-java-5.1.18.bundle.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./lib/rs2xml.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+
+

@@ -1,0 +1,80 @@
+LONGLONGTIME: org/jdom/Verifier.isXMLLetter(C)Z
+LONGLONGTIME: org/sqlite/SQLiteErrorCode.<clinit>()V
+LONGLONGTIME: org/sqlite/SQLiteConfig$Pragma.<clinit>()V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB._close()V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB._exec(Ljava/lang/String;)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB._open(Ljava/lang/String;I)V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.backup(Ljava/lang/String;Ljava/lang/String;Lorg/sqlite/core/DB$ProgressObserver;)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.bind_blob(JI[B)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.bind_double(JID)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.bind_int(JII)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.bind_long(JIJ)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.bind_null(JI)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.bind_parameter_count(J)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.bind_text(JILjava/lang/String;)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.busy_handler(Lorg/sqlite/BusyHandler;)V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.busy_timeout(I)V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.changes()I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.clear_bindings(J)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.clear_progress_handler()V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.column_blob(JI)[B
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.column_count(J)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.column_decltype(JI)Ljava/lang/String;
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.column_double(JI)D
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.column_int(JI)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.column_long(JI)J
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.column_metadata(J)[[Z
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.column_name_utf8(JI)[B
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.column_table_name(JI)Ljava/lang/String;
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.column_text_utf8(JI)[B
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.column_type(JI)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.create_function(Ljava/lang/String;Lorg/sqlite/Function;)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.destroy_function(Ljava/lang/String;)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.enable_load_extension(Z)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.errmsg()Ljava/lang/String;
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.finalize(J)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.free_functions()V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.interrupt()V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.libversion()Ljava/lang/String;
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.prepare(Ljava/lang/String;)J
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.register_progress_handler(ILorg/sqlite/ProgressHandler;)V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.reset(J)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.restore(Ljava/lang/String;Ljava/lang/String;Lorg/sqlite/core/DB$ProgressObserver;)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.result_blob(J[B)V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.result_double(JD)V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.result_error(JLjava/lang/String;)V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.result_int(JI)V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.result_long(JJ)V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.result_null(J)V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.result_text(JLjava/lang/String;)V
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.shared_cache(Z)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.step(J)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.total_changes()I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.value_blob(Lorg/sqlite/Function;I)[B
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.value_bytes(Lorg/sqlite/Function;I)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.value_double(Lorg/sqlite/Function;I)D
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.value_int(Lorg/sqlite/Function;I)I
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.value_long(Lorg/sqlite/Function;I)J
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.value_text(Lorg/sqlite/Function;I)Ljava/lang/String;
+not implemented feature NATIVE_WRAPPER: org/sqlite/core/NativeDB.value_type(Lorg/sqlite/Function;I)I
+LONGLONGTIME: com/fazecast/jSerialComm/SerialPort.<clinit>()V
+not implemented feature NATIVE_WRAPPER: com/fazecast/jSerialComm/SerialPort.bytesAvailable(J)I
+not implemented feature NATIVE_WRAPPER: com/fazecast/jSerialComm/SerialPort.closePortNative(J)Z
+not implemented feature NATIVE_WRAPPER: com/fazecast/jSerialComm/SerialPort.configEventFlags(J)Z
+not implemented feature NATIVE_WRAPPER: com/fazecast/jSerialComm/SerialPort.configFlowControl(J)Z
+not implemented feature NATIVE_WRAPPER: com/fazecast/jSerialComm/SerialPort.configPort(J)Z
+not implemented feature NATIVE_WRAPPER: com/fazecast/jSerialComm/SerialPort.configTimeouts(J)Z
+not implemented feature NATIVE_WRAPPER: com/fazecast/jSerialComm/SerialPort.getCommPorts()[Lcom/fazecast/jSerialComm/SerialPort;
+not implemented feature NATIVE_WRAPPER: com/fazecast/jSerialComm/SerialPort.initializeLibrary()V
+not implemented feature NATIVE_WRAPPER: com/fazecast/jSerialComm/SerialPort.openPortNative()J
+not implemented feature NATIVE_WRAPPER: com/fazecast/jSerialComm/SerialPort.readBytes(J[BJ)I
+not implemented feature NATIVE_WRAPPER: com/fazecast/jSerialComm/SerialPort.uninitializeLibrary()V
+not implemented feature NATIVE_WRAPPER: com/fazecast/jSerialComm/SerialPort.waitForEvent(J)I
+not implemented feature NATIVE_WRAPPER: com/fazecast/jSerialComm/SerialPort.writeBytes(J[BJ)I
+LONGLONGTIME: demo/XYBoxAnnotationDemo1.createDataset()Lorg/jfree/data/xy/XYDataset;
+LONGLONGTIME: demo/TimeSeriesDemo8.createEURTimeSeries()Lorg/jfree/data/time/TimeSeries;
+LONGLONGTIME: demo/TimeSeriesDemo7.createDataset()Lorg/jfree/data/xy/XYDataset;
+LONGLONGTIME: demo/DifferenceChartDemo2.createSunriseSeries()Lorg/jfree/data/time/TimeSeries;
+LONGLONGTIME: demo/DifferenceChartDemo2.createSunsetSeries()Lorg/jfree/data/time/TimeSeries;
+LONGLONGTIME: demo/CombinedXYPlotDemo3.createEURTimeSeries()Lorg/jfree/data/time/TimeSeries;
+LONGLONGTIME: gnu/xml/util/XMLWriter.<clinit>()V
